@@ -4,5 +4,14 @@ This is wrapper for CKEditor about [tablecellsselection jQuery plugin](https://g
 
 ![CKEditorTableCellsSelection](ckeditortablecellsselection.gif)
 
+#Usage example
+```javascript
+CKEDITOR.replace( 'editor1',{
+    extraPlugins:'ckeditortablecellsselection'
+});
+```
+
+For more info see ["Installing Plugins" official documentation](http://docs.ckeditor.com/#!/guide/dev_plugins)
+
 # Licence
 The MIT License (MIT).
