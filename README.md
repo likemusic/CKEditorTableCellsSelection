@@ -4,5 +4,8 @@ This is wrapper for CKEditor about [tablecellsselection jQuery plugin](https://g
 
 ![CKEditorTableCellsSelection](ckeditortablecellsselection.gif)
 
+# TODO
+Integrate with CKEditor Selection API.
+
 # Licence
 The MIT License (MIT).
