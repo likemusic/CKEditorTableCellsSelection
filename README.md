@@ -13,5 +13,8 @@ CKEDITOR.replace( 'editor1',{
 
 For more info see ["Installing Plugins" official documentation](http://docs.ckeditor.com/#!/guide/dev_plugins)
 
+# TODO
+Integrate with CKEditor Selection API.
+
 # Licence
 The MIT License (MIT).
