@@ -203,7 +203,7 @@ CKEDITOR.plugins.add('ckeditortablecellsselection', {
 
         function destroyTablesSelection($document) {
             var $tables = $document.find('table');
-            if ($tables.length > 0) $tables.tablesCellsSelector('destroy');
+            if ($tables.length > 0) $tables.tableCellsSelection('destroy');
         }
 
         //Overwrite tabletools-plugin commands
